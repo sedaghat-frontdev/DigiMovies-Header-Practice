@@ -45,5 +45,5 @@ Rezzasedaghat@gmail.com
 sedaghat-frontdev
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=141321&text=Hope%20You%20Enjoyed%20!&fontColor=ff79c6&animation=twinkling&fontSize=55&fontAlignY=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=141321&text=Hope%20You%20Enjoyed%20!&fontColor=ff79c6&animation=twinkling&fontSize=55&fontAlignY=60&section=footer" width="100%"/>
 </p>
