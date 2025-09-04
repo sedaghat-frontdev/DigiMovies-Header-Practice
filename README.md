@@ -30,4 +30,11 @@ A simple practice project to recreate the dropdown menu of Digimovie's header us
 ## 🧬 Credits
 Inspired by the dropdown menu of [Digimovie](https://digimovie.site/).
 
+## ✨ Coder
+MohammadReza Sedaghat
 
+## 📨 Email 
+Rezzasedaghat@gmail.com
+
+## 🪪 Instagram
+sedaghat-frontdev
