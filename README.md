@@ -2,8 +2,7 @@
 
 A simple practice project to recreate the dropdown menu of Digimovie's header using HTML and CSS.
 
-![Screenshot 1](./style/img/Screenshot1.png)
-![Screenshot 2](./style/img/Screenshot2.png)
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/6becb6b8-7e2d-48e6-a9cf-50b358ae9806" />
 
 🔗 [Live Demo](https://sedaghat-frontdev.github.io/DigiMovies-Header-Practice/index-1MenuDigi.html)
 
