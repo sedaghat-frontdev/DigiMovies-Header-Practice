@@ -6,7 +6,7 @@ A simple practice project to recreate the dropdown menu of Digimovie's header us
 <img width="1918" height="971" alt="Image" src="https://github.com/user-attachments/assets/5f066c3e-a4f9-4433-b57d-81c9cb4c426d" />
 <br/>
 <p align="center">
-  <a href="(https://sedaghat-frontdev.github.io/DigiMovies-Header-Practice/index-1MenuDigi.html)" target="_blank">
+  <a href="https://sedaghat-frontdev.github.io/DigiMovies-Header-Practice/index-1MenuDigi.html" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
