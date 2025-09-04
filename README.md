@@ -1,3 +1,6 @@
+https://capsule-render.vercel.app/api?type=waving&height=200&color=141321&text=Welcome%20to%20my%20MiniProject&fontColor=ff79c6&animation=twinkling&fontSize=55&fontAlignY=40
+
+
 # 📽️ Digimovie Header (Practice)
 
 A simple practice project to recreate the dropdown menu of Digimovie's header using HTML and CSS.
