@@ -5,7 +5,7 @@ A simple practice project to recreate the dropdown menu of Digimovie's header us
 ![Screenshot 1](./style/img/Screenshot1.png)
 ![Screenshot 2](./style/img/Screenshot2.png)
 
-🔗 [Live Demo]([https://sedaghat-frontdev.github.io/digimovie-dropdown-practice/](https://sedaghat-frontdev.github.io/DigiMovies-Header-Practice/index-1MenuDigi.html))
+🔗 [Live Demo](https://sedaghat-frontdev.github.io/DigiMovies-Header-Practice/index-1MenuDigi.html)
 
 ## Features
 - dropdown menu
